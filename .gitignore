@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# But not these files...
+!/.gitignore
+
+!*.html
+!*.md
+
+!README.md
+!LICENSE
+
+# ...even if they are in subdirectories
+!*/
