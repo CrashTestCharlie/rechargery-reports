@@ -29,7 +29,7 @@ A count of locations by the kind of site, using IONNA’s own names:
 **Rechargery \@** (sites hosted at a partner business — a Wawa, Sheetz,
 Casey’s, etc.)  
 **Relay** (sites with chargers, near facilities)  
-**Beacon** (undescribed)
+**Beacon** (flagship destination site, 20+ stalls, full amenities)
 
 ### Locations by Status
 
