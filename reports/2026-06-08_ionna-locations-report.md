@@ -2,46 +2,46 @@
 
 **162 locations**\
 Data gathered 2026-06-08\
-Report generated 2026-06-08 08:17
+Report generated 2026-06-14 17:04
 
 ## Locations by State
 
 <table>
-<thead><tr><th>State</th><th>Locations</th></tr></thead>
+<thead><tr><th>State</th><th>Open</th><th>Opening Soon</th><th>Under Renovation</th><th>Total</th></tr></thead>
 <tbody>
-<tr><td>AR</td><td>1</td></tr>
-<tr><td>AZ</td><td>1</td></tr>
-<tr><td>CA</td><td>23</td></tr>
-<tr><td>CO</td><td>2</td></tr>
-<tr><td>CT</td><td>1</td></tr>
-<tr><td>FL</td><td>26</td></tr>
-<tr><td>GA</td><td>6</td></tr>
-<tr><td>IL</td><td>9</td></tr>
-<tr><td>IN</td><td>4</td></tr>
-<tr><td>KS</td><td>3</td></tr>
-<tr><td>MA</td><td>2</td></tr>
-<tr><td>MD</td><td>5</td></tr>
-<tr><td>MN</td><td>5</td></tr>
-<tr><td>MO</td><td>6</td></tr>
-<tr><td>NC</td><td>6</td></tr>
-<tr><td>NH</td><td>1</td></tr>
-<tr><td>NJ</td><td>5</td></tr>
-<tr><td>NM</td><td>3</td></tr>
-<tr><td>NV</td><td>7</td></tr>
-<tr><td>NY</td><td>1</td></tr>
-<tr><td>OH</td><td>7</td></tr>
-<tr><td>OK</td><td>2</td></tr>
-<tr><td>OR</td><td>3</td></tr>
-<tr><td>PA</td><td>7</td></tr>
-<tr><td>SC</td><td>3</td></tr>
-<tr><td>TX</td><td>13</td></tr>
-<tr><td>UT</td><td>1</td></tr>
-<tr><td>VA</td><td>2</td></tr>
-<tr><td>VT</td><td>1</td></tr>
-<tr><td>WA</td><td>4</td></tr>
-<tr><td>WI</td><td>2</td></tr>
+<tr><td>AR</td><td>1</td><td>0</td><td>0</td><td>1</td></tr>
+<tr><td>AZ</td><td>1</td><td>0</td><td>0</td><td>1</td></tr>
+<tr><td>CA</td><td>7</td><td>16</td><td>0</td><td>23</td></tr>
+<tr><td>CO</td><td>2</td><td>0</td><td>0</td><td>2</td></tr>
+<tr><td>CT</td><td>1</td><td>0</td><td>0</td><td>1</td></tr>
+<tr><td>FL</td><td>16</td><td>10</td><td>0</td><td>26</td></tr>
+<tr><td>GA</td><td>6</td><td>0</td><td>0</td><td>6</td></tr>
+<tr><td>IL</td><td>8</td><td>1</td><td>0</td><td>9</td></tr>
+<tr><td>IN</td><td>2</td><td>2</td><td>0</td><td>4</td></tr>
+<tr><td>KS</td><td>3</td><td>0</td><td>0</td><td>3</td></tr>
+<tr><td>MA</td><td>1</td><td>1</td><td>0</td><td>2</td></tr>
+<tr><td>MD</td><td>3</td><td>2</td><td>0</td><td>5</td></tr>
+<tr><td>MN</td><td>4</td><td>0</td><td>1</td><td>5</td></tr>
+<tr><td>MO</td><td>6</td><td>0</td><td>0</td><td>6</td></tr>
+<tr><td>NC</td><td>5</td><td>1</td><td>0</td><td>6</td></tr>
+<tr><td>NH</td><td>1</td><td>0</td><td>0</td><td>1</td></tr>
+<tr><td>NJ</td><td>3</td><td>2</td><td>0</td><td>5</td></tr>
+<tr><td>NM</td><td>3</td><td>0</td><td>0</td><td>3</td></tr>
+<tr><td>NV</td><td>4</td><td>3</td><td>0</td><td>7</td></tr>
+<tr><td>NY</td><td>0</td><td>1</td><td>0</td><td>1</td></tr>
+<tr><td>OH</td><td>7</td><td>0</td><td>0</td><td>7</td></tr>
+<tr><td>OK</td><td>2</td><td>0</td><td>0</td><td>2</td></tr>
+<tr><td>OR</td><td>2</td><td>1</td><td>0</td><td>3</td></tr>
+<tr><td>PA</td><td>7</td><td>0</td><td>0</td><td>7</td></tr>
+<tr><td>SC</td><td>2</td><td>1</td><td>0</td><td>3</td></tr>
+<tr><td>TX</td><td>9</td><td>4</td><td>0</td><td>13</td></tr>
+<tr><td>UT</td><td>1</td><td>0</td><td>0</td><td>1</td></tr>
+<tr><td>VA</td><td>2</td><td>0</td><td>0</td><td>2</td></tr>
+<tr><td>VT</td><td>1</td><td>0</td><td>0</td><td>1</td></tr>
+<tr><td>WA</td><td>3</td><td>0</td><td>1</td><td>4</td></tr>
+<tr><td>WI</td><td>2</td><td>0</td><td>0</td><td>2</td></tr>
 </tbody>
-<tfoot><tr><th>Total (31 states)</th><th>162</th></tr></tfoot>
+<tfoot><tr><th>Total (31 states)</th><th>115</th><th>45</th><th>2</th><th>162</th></tr></tfoot>
 </table>
 
 ## Locations by Type
