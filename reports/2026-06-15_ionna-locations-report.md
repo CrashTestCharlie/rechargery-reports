@@ -69,7 +69,7 @@ Report generated 2026-06-15 09:06
 <tr><td>CA</td><td>🟩 Larkspur, CA Rechargery Relay - Larkspur Landing Cir</td></tr>
 <tr><td>CA</td><td>🟩 Sacramento, CA Rechargery Relay - Stockton Blvd</td></tr>
 <tr><td>CA</td><td>🟩 San Francisco, CA Rechargery Relay - Folsom St</td></tr>
-<tr><td>CA</td><td>🟩 San Jose, CA Rechargery Relay - Cahalan Ave</td></tr>
+<tr><td>CA</td><td>🟩 San Jose, CA Rechargery Relay - Cahalan Ave</td></tr>
 <tr><td>CA</td><td>🟩 San Jose, CA Rechargery Relay – Branham Ln</td></tr>
 <tr><td>CA</td><td>🟩 Vista, CA Rechargery Relay - Hacienda Dr</td></tr>
 <tr><td>CO</td><td>🟩 Fruita, CO Rechargery Relay - Kokopelli Blvd</td></tr>
@@ -99,7 +99,7 @@ Report generated 2026-06-15 09:06
 <tr><td>GA</td><td>🟩 Valdosta, GA Rechargery Relay - Norman Dr</td></tr>
 <tr><td>GA</td><td>🟩 West Point, GA Rechargery - Kia Pkwy</td></tr>
 <tr><td>IL</td><td>🟩 Gilman, IL Rechargery Relay - US-24</td></tr>
-<tr><td>IL</td><td>🟩 Hanover Park, IL Rechargery Relay - Barrington Rd</td></tr>
+<tr><td>IL</td><td>🟩 Hanover Park, IL Rechargery Relay - Barrington Rd</td></tr>
 <tr><td>IL</td><td>🟩 McHenry, IL Rechargery @ Casey&#x27;s - N Richmond Rd</td></tr>
 <tr><td>IL</td><td>🟩 Morton, IL Rechargery @ Circle K</td></tr>
 <tr><td>IL</td><td>🟩 Peotone, IL Rechargery Relay @ Circle K - Oriole Drive</td></tr>
@@ -161,7 +161,7 @@ Report generated 2026-06-15 09:06
 <tr><td>PA</td><td>🟩 Scranton, PA Rechargery @ Sheetz - Scranton Carbondale Hwy</td></tr>
 <tr><td>SC</td><td>🟩 Florence, SC Rechargery Relay - David H McLeod Blvd</td></tr>
 <tr><td>SC</td><td>🟩 Rock Hill, SC Rechargery Relay - Cherry Rd</td></tr>
-<tr><td>TX</td><td>🟩 Boerne, TX Rechargery Relay – IH-10</td></tr>
+<tr><td>TX</td><td>🟩 Boerne, TX Rechargery Relay – IH-10</td></tr>
 <tr><td>TX</td><td>🟩 Corsicana, TX Rechargery Relay - I-45</td></tr>
 <tr><td>TX</td><td>🟩 Grand Prairie, TX Rechargery Relay - N Hwy 360</td></tr>
 <tr><td>TX</td><td>🟩 Grand Prairie, TX Rechargery Relay - S Carrier Pkwy</td></tr>
@@ -185,7 +185,7 @@ Report generated 2026-06-15 09:06
 <tr><td>CA</td><td>🟨 Corona, CA Rechargery Relay - Green River Rd</td></tr>
 <tr><td>CA</td><td>🟨 Livermore,  CA Rechargery Relay - N Greenville Rd</td></tr>
 <tr><td>CA</td><td>🟨 Oceanside, CA Rechargery Relay - Oceanside Blvd</td></tr>
-<tr><td>CA</td><td>🟨 Orange, CA Rechargery Relay - N Tustin St</td></tr>
+<tr><td>CA</td><td>🟨 Orange, CA Rechargery Relay - N Tustin St</td></tr>
 <tr><td>CA</td><td>🟨 Pacifica, CA Rechargery Relay - Eureka Square</td></tr>
 <tr><td>CA</td><td>🟨 Patterson, CA Rechargery Relay - Rogers Rd</td></tr>
 <tr><td>CA</td><td>🟨 Placerville, CA Rechargery Relay - Missouri Flat Rd</td></tr>
