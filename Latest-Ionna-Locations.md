@@ -1,8 +1,8 @@
 # Ionna Locations Report
 
-**273 locations**\
-Data gathered 2026-10-05\
-Report generated 2026-10-06 08:33
+**274 locations**\
+Data gathered 2026-10-12\
+Report generated 2026-10-12 09:14
 
 ## Locations by State
 
@@ -11,11 +11,11 @@ Report generated 2026-10-06 08:33
 <tbody>
 <tr><td>AR</td><td>1</td><td>0</td><td>0</td><td>1</td></tr>
 <tr><td>AZ</td><td>4</td><td>4</td><td>0</td><td>8</td></tr>
-<tr><td>CA</td><td>13</td><td>29</td><td>0</td><td>42</td></tr>
+<tr><td>CA</td><td>14</td><td>28</td><td>0</td><td>42</td></tr>
 <tr><td>CO</td><td>4</td><td>3</td><td>0</td><td>7</td></tr>
 <tr><td>CT</td><td>1</td><td>0</td><td>0</td><td>1</td></tr>
-<tr><td>FL</td><td>27</td><td>10</td><td>0</td><td>37</td></tr>
-<tr><td>GA</td><td>9</td><td>2</td><td>0</td><td>11</td></tr>
+<tr><td>FL</td><td>29</td><td>8</td><td>0</td><td>37</td></tr>
+<tr><td>GA</td><td>9</td><td>3</td><td>0</td><td>12</td></tr>
 <tr><td>IL</td><td>14</td><td>0</td><td>0</td><td>14</td></tr>
 <tr><td>IN</td><td>5</td><td>0</td><td>0</td><td>5</td></tr>
 <tr><td>KS</td><td>3</td><td>0</td><td>0</td><td>3</td></tr>
@@ -23,7 +23,7 @@ Report generated 2026-10-06 08:33
 <tr><td>MD</td><td>4</td><td>5</td><td>0</td><td>9</td></tr>
 <tr><td>MN</td><td>9</td><td>2</td><td>1</td><td>12</td></tr>
 <tr><td>MO</td><td>6</td><td>0</td><td>0</td><td>6</td></tr>
-<tr><td>NC</td><td>15</td><td>1</td><td>0</td><td>16</td></tr>
+<tr><td>NC</td><td>16</td><td>0</td><td>0</td><td>16</td></tr>
 <tr><td>NH</td><td>1</td><td>0</td><td>0</td><td>1</td></tr>
 <tr><td>NJ</td><td>4</td><td>3</td><td>0</td><td>7</td></tr>
 <tr><td>NM</td><td>3</td><td>0</td><td>0</td><td>3</td></tr>
@@ -34,14 +34,14 @@ Report generated 2026-10-06 08:33
 <tr><td>OR</td><td>3</td><td>1</td><td>0</td><td>4</td></tr>
 <tr><td>PA</td><td>7</td><td>2</td><td>0</td><td>9</td></tr>
 <tr><td>SC</td><td>10</td><td>0</td><td>0</td><td>10</td></tr>
-<tr><td>TX</td><td>18</td><td>7</td><td>0</td><td>25</td></tr>
+<tr><td>TX</td><td>19</td><td>6</td><td>0</td><td>25</td></tr>
 <tr><td>UT</td><td>1</td><td>1</td><td>0</td><td>2</td></tr>
 <tr><td>VA</td><td>3</td><td>2</td><td>0</td><td>5</td></tr>
 <tr><td>VT</td><td>1</td><td>0</td><td>0</td><td>1</td></tr>
-<tr><td>WA</td><td>7</td><td>4</td><td>0</td><td>11</td></tr>
+<tr><td>WA</td><td>8</td><td>3</td><td>0</td><td>11</td></tr>
 <tr><td>WI</td><td>2</td><td>0</td><td>0</td><td>2</td></tr>
 </tbody>
-<tfoot><tr><th>Total (31 states)</th><th>190</th><th>82</th><th>1</th><th>273</th></tr></tfoot>
+<tfoot><tr><th>Total (31 states)</th><th>196</th><th>77</th><th>1</th><th>274</th></tr></tfoot>
 </table>
 
 ## Locations by Type
@@ -52,9 +52,9 @@ Report generated 2026-10-06 08:33
 <tr><td>Rechargery</td><td>11</td></tr>
 <tr><td>Rechargery @</td><td>133</td></tr>
 <tr><td>Rechargery Beacon</td><td>1</td></tr>
-<tr><td>Rechargery Relay</td><td>128</td></tr>
+<tr><td>Rechargery Relay</td><td>129</td></tr>
 </tbody>
-<tfoot><tr><th>Total (4 types)</th><th>273</th></tr></tfoot>
+<tfoot><tr><th>Total (4 types)</th><th>274</th></tr></tfoot>
 </table>
 
 ## Locations by Status
@@ -62,7 +62,7 @@ Report generated 2026-10-06 08:33
 <table>
 <thead><tr><th>State</th><th>Rechargery</th></tr></thead>
 <tbody>
-<tr><th colspan="2">Open (190)</th></tr>
+<tr><th colspan="2">Open (196)</th></tr>
 <tr><td>AR</td><td>🟩 Little Rock, AR Rechargery @ Casey&#x27;s - Stagecoach Rd</td></tr>
 <tr><td>AZ</td><td>🟩 Anthem, AZ Rechargery @ Circle K - W Anthem Way</td></tr>
 <tr><td>AZ</td><td>🟩 Page, AZ Rechargery @ Circle K - N Lake Powell Blvd</td></tr>
@@ -72,6 +72,7 @@ Report generated 2026-10-06 08:33
 <tr><td>CA</td><td>🟩 Laguna Hills, CA Rechargery Relay - Alicia Pkwy</td></tr>
 <tr><td>CA</td><td>🟩 Lancaster, CA Rechargery @ Circle K - E Ave K</td></tr>
 <tr><td>CA</td><td>🟩 Larkspur, CA Rechargery Relay - Larkspur Landing Cir</td></tr>
+<tr><td>CA</td><td>🟩 Oceanside, CA Rechargery Relay - Oceanside Blvd</td></tr>
 <tr><td>CA</td><td>🟩 Perris, CA Rechargery @ Circle K - N Perris Blvd</td></tr>
 <tr><td>CA</td><td>🟩 Placerville, CA Rechargery Relay - Missouri Flat Rd</td></tr>
 <tr><td>CA</td><td>🟩 Riverside, CA Rechargery Relay - Van Buren Blvd</td></tr>
@@ -96,6 +97,7 @@ Report generated 2026-10-06 08:33
 <tr><td>FL</td><td>🟩 Homestead, FL Rechargery Relay - NE 7th Street</td></tr>
 <tr><td>FL</td><td>🟩 Jacksonville, FL Rechargery @ Wawa - Baymeadows Rd</td></tr>
 <tr><td>FL</td><td>🟩 Jacksonville, FL Rechargery @ Wawa - University Blvd N</td></tr>
+<tr><td>FL</td><td>🟩 Jacksonville, FL Rechargery Relay - Cahoon Rd</td></tr>
 <tr><td>FL</td><td>🟩 Lake Wales, FL Rechargery @ Circle K - Hwy 27</td></tr>
 <tr><td>FL</td><td>🟩 Largo, FL Rechargery @ Wawa - Missouri Ave N</td></tr>
 <tr><td>FL</td><td>🟩 Orlando, FL Rechargery @ Circle K - W Sand Lake Rd</td></tr>
@@ -112,6 +114,7 @@ Report generated 2026-10-06 08:33
 <tr><td>FL</td><td>🟩 Tampa, FL Rechargery @ Wawa - US-301</td></tr>
 <tr><td>FL</td><td>🟩 Tampa, FL Rechargery @ Wawa - W Waters Ave</td></tr>
 <tr><td>FL</td><td>🟩 Tarpon Springs, FL Rechargery @ Circle K - E Tarpon Ave</td></tr>
+<tr><td>FL</td><td>🟩 Wellington, FL Rechargery Relay - South State Rd 7</td></tr>
 <tr><td>FL</td><td>🟩 Wesley Chapel, FL Rechargery @ Wawa</td></tr>
 <tr><td>GA</td><td>🟩 Austell, GA Rechargery Relay - Austell Rd</td></tr>
 <tr><td>GA</td><td>🟩 Brunswick, GA Rechargery Relay - Canal Rd</td></tr>
@@ -174,6 +177,7 @@ Report generated 2026-10-06 08:33
 <tr><td>NC</td><td>🟩 Goldsboro, NC Rechargery @ Circle K - N William St</td></tr>
 <tr><td>NC</td><td>🟩 Hickory, NC Rechargery @ Circle K - US Hwy 70 SE</td></tr>
 <tr><td>NC</td><td>🟩 Hope Mills, NC Rechargery @ Circle K - Chicken Foot Rd</td></tr>
+<tr><td>NC</td><td>🟩 New Bern, NC Rechargery @ Circle K - Hotel Dr</td></tr>
 <tr><td>NC</td><td>🟩 Raleigh, NC Rechargery @ Refuel - Glenwood Ave</td></tr>
 <tr><td>NC</td><td>🟩 Raleigh, NC Rechargery Relay - Louisburg Rd</td></tr>
 <tr><td>NC</td><td>🟩 Salisbury, NC Rechargery @ Circle K - Rowan Summit Dr</td></tr>
@@ -224,6 +228,7 @@ Report generated 2026-10-06 08:33
 <tr><td>TX</td><td>🟩 Austin, TX Rechargery @ Circle K - S I-35 Frontage Rd</td></tr>
 <tr><td>TX</td><td>🟩 Boerne, TX Rechargery Relay – IH-10</td></tr>
 <tr><td>TX</td><td>🟩 Corsicana, TX Rechargery Relay - I-45</td></tr>
+<tr><td>TX</td><td>🟩 Dallas, TX Rechargery Relay - W 12th St</td></tr>
 <tr><td>TX</td><td>🟩 Euless, TX Rechargery @ Circle K - E Harwood Rd</td></tr>
 <tr><td>TX</td><td>🟩 Frisco, TX Rechargery Relay - State Hwy 121</td></tr>
 <tr><td>TX</td><td>🟩 Grand Prairie, TX Rechargery Relay - N Hwy 360</td></tr>
@@ -247,13 +252,14 @@ Report generated 2026-10-06 08:33
 <tr><td>WA</td><td>🟩 Ellensburg, WA Rechargery @ Circle K - Canyon Rd</td></tr>
 <tr><td>WA</td><td>🟩 Everett, WA Rechargery Relay - Broadway</td></tr>
 <tr><td>WA</td><td>🟩 Everett, WA Rechargery Relay - Evergreen Way</td></tr>
+<tr><td>WA</td><td>🟩 Kennewick, WA Rechargery @ Circle K - W Clearwater Ave</td></tr>
 <tr><td>WA</td><td>🟩 Mount Vernon, WA - Rechargery Relay - S 5th St</td></tr>
 <tr><td>WA</td><td>🟩 Pasco, WA Rechargery @ Circle K - Broadmoor Blvd</td></tr>
 <tr><td>WA</td><td>🟩 Renton, WA Rechargery Relay - S 2nd Street</td></tr>
 <tr><td>WA</td><td>🟩 Vancouver, WA Rechargery Relay - SE 15th St</td></tr>
 <tr><td>WI</td><td>🟩 Janesville, WI Rechargery Relay - Morse St</td></tr>
 <tr><td>WI</td><td>🟩 Lake Delton, WI Rechargery Relay - Gasser Rd</td></tr>
-<tr><th colspan="2">Opening Soon (82)</th></tr>
+<tr><th colspan="2">Opening Soon (77)</th></tr>
 <tr><td>AZ</td><td>🟨 Goodyear, AZ Rechargery @ Circle K - W McDowell Rd</td></tr>
 <tr><td>AZ</td><td>🟨 Surprise, AZ Rechargery Relay - W Greenway Rd</td></tr>
 <tr><td>AZ</td><td>🟨 Tucson, AZ Rechargery Relay - E Tucson Marketplace Blvd</td></tr>
@@ -272,7 +278,6 @@ Report generated 2026-10-06 08:33
 <tr><td>CA</td><td>🟨 Lodi, CA Rechargery Relay - W Lockeford St</td></tr>
 <tr><td>CA</td><td>🟨 Manteca, CA Rechargery Relay - S. Main St</td></tr>
 <tr><td>CA</td><td>🟨 Newark, CA Rechargery Relay - Mowry School Rd</td></tr>
-<tr><td>CA</td><td>🟨 Oceanside, CA Rechargery Relay - Oceanside Blvd</td></tr>
 <tr><td>CA</td><td>🟨 Orange, CA Rechargery Relay - N Tustin St</td></tr>
 <tr><td>CA</td><td>🟨 Pacifica, CA Rechargery Relay - Eureka Square</td></tr>
 <tr><td>CA</td><td>🟨 Patterson, CA Rechargery Relay - Rogers Rd</td></tr>
@@ -292,15 +297,14 @@ Report generated 2026-10-06 08:33
 <tr><td>CO</td><td>🟨 Monument, CO Rechargery @ Circle K - W Baptist Rd</td></tr>
 <tr><td>FL</td><td>🟨 Davie, FL Rechargery Relay - W State Rd 84</td></tr>
 <tr><td>FL</td><td>🟨 Jacksonville, FL Rechargery @ Wawa - Gate Pkwy</td></tr>
-<tr><td>FL</td><td>🟨 Jacksonville, FL Rechargery Relay - Cahoon Rd</td></tr>
 <tr><td>FL</td><td>🟨 Medly, FL Rechargery @ Wawa - NW South River Dr</td></tr>
 <tr><td>FL</td><td>🟨 North Lauderdale, FL Rechargery @ Wawa - W McNab Rd</td></tr>
 <tr><td>FL</td><td>🟨 Orlando, FL Rechargery @ Wawa - W Sand Lake Rd</td></tr>
 <tr><td>FL</td><td>🟨 Orlando, FL Rechargery Relay - E Colonial Dr</td></tr>
 <tr><td>FL</td><td>🟨 Pembroke Pines, FL Rechargery Relay - Pines Blvd</td></tr>
-<tr><td>FL</td><td>🟨 Wellington, FL Rechargery Relay - South State Rd 7</td></tr>
 <tr><td>FL</td><td>🟨 West Palm Beach, FL Rechargery @ Wawa - 45th St</td></tr>
 <tr><td>GA</td><td>🟨 Athens, GA Rechargery @ Circle K - US Hwy 29 N</td></tr>
+<tr><td>GA</td><td>🟨 Richmond Hill, GA Rechargery Relay - US 17</td></tr>
 <tr><td>GA</td><td>🟨 Tifton, GA Rechargery @ Wawa - 7th Street West</td></tr>
 <tr><td>MA</td><td>🟨 South Weymouth, MA Rechargery Relay - Pleasant St</td></tr>
 <tr><td>MD</td><td>🟨 Baltimore, MD Rechargery @ Wawa - Eastern Ave</td></tr>
@@ -310,7 +314,6 @@ Report generated 2026-10-06 08:33
 <tr><td>MD</td><td>🟨 Upper Marlboro, MD Rechargery @ Wawa - Robert S. Crain Highway</td></tr>
 <tr><td>MN</td><td>🟨 Baxter, MN Rechargery @ Circle K - Dellwood Dr N</td></tr>
 <tr><td>MN</td><td>🟨 Mendota Heights, MN Rechargery Relay - Main St</td></tr>
-<tr><td>NC</td><td>🟨 New Bern, NC Rechargery @ Circle K - Hotel Dr</td></tr>
 <tr><td>NJ</td><td>🟨 Pennsville, NJ Rechargery @ Wawa - S Broadway</td></tr>
 <tr><td>NJ</td><td>🟨 Stanhope, NJ Rechargery @ Wawa - Route 206</td></tr>
 <tr><td>NJ</td><td>🟨 Woodcliff Lake, NJ Rechargery Relay - Chestnut Ridge Rd</td></tr>
@@ -324,7 +327,6 @@ Report generated 2026-10-06 08:33
 <tr><td>PA</td><td>🟨 Philadelphia, PA Rechargery @ Wawa - Roosevelt Blvd</td></tr>
 <tr><td>TX</td><td>🟨 Alvord, TX Rechagery Relay - N U.S. 287</td></tr>
 <tr><td>TX</td><td>🟨 Dallas, TX Rechargery - North Hall Street</td></tr>
-<tr><td>TX</td><td>🟨 Dallas, TX Rechargery Relay - W 12th St</td></tr>
 <tr><td>TX</td><td>🟨 Houston, TX - Rechargery Relay - Federal Rd</td></tr>
 <tr><td>TX</td><td>🟨 Houston, TX Rechargery Relay - West Rd</td></tr>
 <tr><td>TX</td><td>🟨 Houston, TX Rechargery Relay - North Fwy</td></tr>
@@ -332,14 +334,13 @@ Report generated 2026-10-06 08:33
 <tr><td>UT</td><td>🟨 Sandy, UT Rechargery - W 10600 S</td></tr>
 <tr><td>VA</td><td>🟨 South Hill, VA Rechargery @ Wawa - Country Ln</td></tr>
 <tr><td>VA</td><td>🟨 Stafford, VA Rechargery @ Wawa - Richmond Hwy</td></tr>
-<tr><td>WA</td><td>🟨 Kennewick, WA Rechargery @ Circle K - W Clearwater Ave</td></tr>
 <tr><td>WA</td><td>🟨 Kent, WA Rechargery Relay - 104th Ave SE</td></tr>
 <tr><td>WA</td><td>🟨 Tukwila, WA Rechargery Relay - Tukwila Intl Blvd</td></tr>
 <tr><td>WA</td><td>🟨 University Place, WA Rechargery Relay - Regents Blvd</td></tr>
 <tr><th colspan="2">Temporarily Closed (1)</th></tr>
 <tr><td>MN</td><td>🟥 Oakdale, MN Rechargery @ Hyvee - 10th St N</td></tr>
 </tbody>
-<tfoot><tr><th>Total (3 statuses)</th><th>273</th></tr></tfoot>
+<tfoot><tr><th>Total (3 statuses)</th><th>274</th></tr></tfoot>
 </table>
 
 ## Locations by Speed
@@ -347,7 +348,7 @@ Report generated 2026-10-06 08:33
 <table>
 <thead><tr><th>Speed</th><th>Locations</th></tr></thead>
 <tbody>
-<tr><td>400 kW</td><td>273</td></tr>
+<tr><td>400 kW</td><td>274</td></tr>
 </tbody>
-<tfoot><tr><th>Total (1 speeds)</th><th>273</th></tr></tfoot>
+<tfoot><tr><th>Total (1 speeds)</th><th>274</th></tr></tfoot>
 </table>
