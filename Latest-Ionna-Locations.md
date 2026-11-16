@@ -1,8 +1,8 @@
 # Ionna Locations Report
 
 **286 locations**\
-Data gathered 2026-11-09\
-Report generated 2026-11-09 13:09
+Data gathered 2026-11-16\
+Report generated 2026-11-16 12:09
 
 ## Locations by State
 
@@ -20,9 +20,9 @@ Report generated 2026-11-09 13:09
 <tr><td>IN</td><td>5</td><td>0</td><td>0</td><td>5</td></tr>
 <tr><td>KS</td><td>3</td><td>0</td><td>0</td><td>3</td></tr>
 <tr><td>MA</td><td>1</td><td>1</td><td>0</td><td>2</td></tr>
-<tr><td>MD</td><td>6</td><td>4</td><td>0</td><td>10</td></tr>
+<tr><td>MD</td><td>7</td><td>3</td><td>0</td><td>10</td></tr>
 <tr><td>MI</td><td>0</td><td>1</td><td>0</td><td>1</td></tr>
-<tr><td>MN</td><td>11</td><td>4</td><td>1</td><td>16</td></tr>
+<tr><td>MN</td><td>13</td><td>2</td><td>1</td><td>16</td></tr>
 <tr><td>MO</td><td>6</td><td>0</td><td>0</td><td>6</td></tr>
 <tr><td>NC</td><td>16</td><td>0</td><td>0</td><td>16</td></tr>
 <tr><td>NH</td><td>1</td><td>0</td><td>0</td><td>1</td></tr>
@@ -42,7 +42,7 @@ Report generated 2026-11-09 13:09
 <tr><td>WA</td><td>10</td><td>1</td><td>0</td><td>11</td></tr>
 <tr><td>WI</td><td>2</td><td>0</td><td>0</td><td>2</td></tr>
 </tbody>
-<tfoot><tr><th>Total (32 states)</th><th>219</th><th>65</th><th>2</th><th>286</th></tr></tfoot>
+<tfoot><tr><th>Total (32 states)</th><th>222</th><th>62</th><th>2</th><th>286</th></tr></tfoot>
 </table>
 
 ## Locations by Type
@@ -63,7 +63,7 @@ Report generated 2026-11-09 13:09
 <table>
 <thead><tr><th>State</th><th>Rechargery</th></tr></thead>
 <tbody>
-<tr><th colspan="2">Open (219)</th></tr>
+<tr><th colspan="2">Open (222)</th></tr>
 <tr><td>AR</td><td>🟩 Little Rock, AR Rechargery @ Casey&#39;s - Stagecoach Rd</td></tr>
 <tr><td>AZ</td><td>🟩 Anthem, AZ Rechargery @ Circle K - W Anthem Way</td></tr>
 <tr><td>AZ</td><td>🟩 Goodyear, AZ Rechargery @ Circle K - W McDowell Rd</td></tr>
@@ -165,9 +165,11 @@ Report generated 2026-11-09 13:09
 <tr><td>MD</td><td>🟩 Elkton, MD Rechargery @ Wawa - Elkton Rd</td></tr>
 <tr><td>MD</td><td>🟩 Frederick, MD Rechargery Relay - W Patrick St</td></tr>
 <tr><td>MD</td><td>🟩 Gaithersburg, MD Rechargery Relay - S Frederick Ave</td></tr>
+<tr><td>MD</td><td>🟩 Gambrills, MD Rechargery @ Wawa - Annapolis Rd</td></tr>
 <tr><td>MD</td><td>🟩 Middletown, MD Rechargery Relay - Middletown Pkwy</td></tr>
 <tr><td>MD</td><td>🟩 Rockville, MD Rechargery Relay - Boiling Brook Pkwy</td></tr>
 <tr><td>MD</td><td>🟩 Upper Marlboro, MD Rechargery @ Wawa - Robert S. Crain Highway</td></tr>
+<tr><td>MN</td><td>🟩 Alexandria, MN Rechargery @ Circle K - Hwy 29 S</td></tr>
 <tr><td>MN</td><td>🟩 Blaine, MN Rechargery Relay - Lake NE Dr</td></tr>
 <tr><td>MN</td><td>🟩 Brooklyn Park, MN Rechargery @ Hy-Vee - Zane Ave N</td></tr>
 <tr><td>MN</td><td>🟩 Burnsville, MN Rechargery @ Circle K - Nicollet Ave South</td></tr>
@@ -178,6 +180,7 @@ Report generated 2026-11-09 13:09
 <tr><td>MN</td><td>🟩 Plymouth, MN Rechargery @ Circle K - Fernbrook Ln</td></tr>
 <tr><td>MN</td><td>🟩 Rochester, MN Rechargery @ Circle K - Assisi Dr NW</td></tr>
 <tr><td>MN</td><td>🟩 Roseville, MN Rechargery Relay - Twin Lakes Pkwy</td></tr>
+<tr><td>MN</td><td>🟩 Saint Cloud, MN Rechargery @ Circle K - Roosevelt Rd</td></tr>
 <tr><td>MN</td><td>🟩 White Bear Lake, MN Rechargery Relay - White Bear Ave</td></tr>
 <tr><td>MO</td><td>🟩 Blue Springs, MO Rechargery Relay - NE Coronado</td></tr>
 <tr><td>MO</td><td>🟩 Fenton, MO Rechargery @ Wally&#39;s - Assembly Parkway</td></tr>
@@ -283,7 +286,7 @@ Report generated 2026-11-09 13:09
 <tr><td>WA</td><td>🟩 Vancouver, WA Rechargery Relay - SE 15th St</td></tr>
 <tr><td>WI</td><td>🟩 Janesville, WI Rechargery Relay - Morse St</td></tr>
 <tr><td>WI</td><td>🟩 Lake Delton, WI Rechargery Relay - Gasser Rd</td></tr>
-<tr><th colspan="2">Opening Soon (65)</th></tr>
+<tr><th colspan="2">Opening Soon (62)</th></tr>
 <tr><td>AZ</td><td>🟨 Surprise, AZ Rechargery Relay - W Greenway Rd</td></tr>
 <tr><td>AZ</td><td>🟨 Tucson, AZ Rechargery Relay - E Tucson Marketplace Blvd</td></tr>
 <tr><td>CA</td><td>🟨 Antelope, CA Rechargery Relay - Elverta Rd</td></tr>
@@ -323,13 +326,10 @@ Report generated 2026-11-09 13:09
 <tr><td>MA</td><td>🟨 South Weymouth, MA Rechargery Relay - Pleasant St</td></tr>
 <tr><td>MD</td><td>🟨 Baltimore, MD Rechargery @ Wawa - Eastern Ave</td></tr>
 <tr><td>MD</td><td>🟨 Baltimore, MD Rechargery Relay - E Belvedere Ave</td></tr>
-<tr><td>MD</td><td>🟨 Gambrills, MD Rechargery @ Wawa - Annapolis Rd</td></tr>
 <tr><td>MD</td><td>🟨 New Market, MD Rechargery Relay - Rotary Ave</td></tr>
 <tr><td>MI</td><td>🟨 Oak Park, MI Rechargery Relay - Greenfield Rd</td></tr>
-<tr><td>MN</td><td>🟨 Alexandria, MN Rechargery @ Circle K - Hwy 29 S</td></tr>
 <tr><td>MN</td><td>🟨 Baxter, MN Rechargery @ Circle K - Dellwood Dr N</td></tr>
 <tr><td>MN</td><td>🟨 New Hope, MN Rechargery @ Hy-Vee - N 42nd Ave</td></tr>
-<tr><td>MN</td><td>🟨 Saint Cloud, MN Rechargery @ Circle K - Roosevelt Rd</td></tr>
 <tr><td>NJ</td><td>🟨 Sicklerville, NJ Rechargery @ Wawa - Sicklerville Rd</td></tr>
 <tr><td>NJ</td><td>🟨 Stanhope, NJ Rechargery @ Wawa - Route 206</td></tr>
 <tr><td>NJ</td><td>🟨 Woodcliff Lake, NJ Rechargery Relay - Chestnut Ridge Rd</td></tr>
